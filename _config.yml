@@ -1,5 +1,5 @@
 # Site settings
-title: Endang Efendi1
+title: Endang Efendi
 email: efendie292@gmail.com
 url: https://fend252.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Endang Efendi
-  location: Location
+  address: Location
   social: Contact
   credits: Bio
 
@@ -48,8 +48,6 @@ social:
     url: mailto:efendie292@gmail.com
   - title: github
     url: http://github.com/fend252
-  - title: facebook
-    url:
 
 # Postal address (add as many lines as necessary)
 address:
