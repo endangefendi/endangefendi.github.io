@@ -41,14 +41,15 @@ footer:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
+  
   - title: whatsapp
     url: http://wa.me/6289639333325
   - title: voicemail
     url: mailto:efendie292@gmail.com
   - title: github
     url: http://github.com/fend252
+  - title: facebook
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
