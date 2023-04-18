@@ -305,6 +305,7 @@ section.success {
   line-height: 50px;
   border-radius: 25px;
   background-color: #2c3e50;
+  align-items: center;
 }
 
 .chip img {
