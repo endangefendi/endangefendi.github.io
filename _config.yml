@@ -50,7 +50,7 @@ social:
     url: http://github.com/fend252
 
 # Postal address (add as many lines as necessary)
-location:
+address:
   - line: Satriamekar, Kec. Tambun Utara,
   - line: Kab. Bekasi - Jawa Barat
 
