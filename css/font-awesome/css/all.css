@@ -7092,12 +7092,6 @@ readers do not read off random characters that represent icons */
 .fa-mailchimp:before {
   content: "\f59e"; }
 
-.fa-square-mail:before {
-  content: "\f59e"; }
-
-.fa-mail-square:before {
-  content: "\f59e"; }
-  
 .fa-mandalorian:before {
   content: "\f50f"; }
 
