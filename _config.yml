@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Endang Efendi
-  address: Location
+  location: Location
   social: Contact
   credits: Bio
 
@@ -50,7 +50,7 @@ social:
     url: http://github.com/fend252
 
 # Postal address (add as many lines as necessary)
-address:
+location:
   - line: Satriamekar, Kec. Tambun Utara,
   - line: Kab. Bekasi - Jawa Barat
 
