@@ -45,14 +45,14 @@ social:
   #   url:
   - title: whatsapp
     url: http://wa.me/6289639333325
-  - title: email
+  - title: mail
     url: mailto:efendie292@gmail.com
   - title: github
     url: http://github.com/fend252
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Jl. Pisangan, Satriamekar, Kec. Tambun Utara,
+  - line: Satriamekar, Kec. Tambun Utara,
   - line: Kab. Bekasi - Jawa Barat
 
 # Credits content
