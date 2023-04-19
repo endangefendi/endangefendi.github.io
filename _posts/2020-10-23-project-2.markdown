@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2020-10-23
+img: jogjaraya.png
+judul: Jogjaraya.ID
+alt: image-alt
+project-date: October 2020
+client: Yayasan Caraka Nararya Indonesia
+category: Android Development
+description: Jogjaraya.ID adalah aplikasi pencari informasi tentang Jogja yang menyediakan berbagai macam informasi Direktori dan Ensiklopedia tentang Jogja, dengan one stop information, dimana semua informasi bisa ditemukan di apps ini. Jogjaraya.ID juga menyajikan informasi lainnya, seperti Agenda-agenda apa saja yang akan diselenggaran di jogja.
+---
