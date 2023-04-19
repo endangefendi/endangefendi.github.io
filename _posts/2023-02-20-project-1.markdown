@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: HR DM Group
+modal-id: 1
 date: 2023-02-20
 img: hrd.png
+judul: HR DM Group
 alt: image-alt
 project-date: February 2023
 client: DM Mebel Jogja
