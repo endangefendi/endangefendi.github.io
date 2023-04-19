@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: HR DM Group
 date: 2023-02-20
 img: hrd.png
 alt: image-alt
