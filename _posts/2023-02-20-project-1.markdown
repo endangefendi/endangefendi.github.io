@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-02-20
+img: hrd.png
+alt: image-alt
+project-date: February 2023
+client: DM Mebel Jogja
+category: Android Development
+description: Aplikasi HR DM Group merupakan aplikasi untuk pengelolaan sistem HRD pada perusahaan DM Mebel Jogja yang mana banyak sekali memiliki fitur unggulan, antara lain yaitu Fitur Management Tugas, Pencatatan Absen, Pengajuan Cuti/Izin/Sakit, Pengajuan Reimbursement, Slip Gaji, dan masih banyak fitur lainnya. Aplikasi ini memiliki 3 actor, yaitu antara lain staf kepala cabang dan pimpinan.
+---
