@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2019-03-05
+img: lilylaundry.png
+judul: Lily Laundry
+alt: image-alt
+project-date: March 2019
+client: Pribadi
+category: Android Development
+description: Apliksi Lily Laundry merupakan aplikasi pencatatan penjualan laundry, aplikasi ini dibangun sebagai syarat salah satu syarat lulus dalam proses perkuliahan. Dalam aplikasi ini sudah menggunakan database realtime milik firebase.
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2020-12-28
+img: ongkirinaja.png
+judul: Ongkirinaja
+alt: image-alt
+project-date: Desember 2020
+client: Pribadi
+category: Android Development
+description: OngkirinAja merupakan aplikasi untuk mengecek ongkos kirim ekspedisi sekaligus tracking resi pengiriman seindonesia. Terdapat 24 ekspedisi yg ada di indonesia yang sudah dapat terintegrasi dengan aplikasi melalui pemanfaatan API dari RajaOngkir.
+---

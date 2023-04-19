@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2020-10-20
+img: racikafalah.png
+judul: Racika Falah
+alt: image-alt
+project-date: October 2020
+client: Racika Falah
+category: Android Development
+description: Apliksi Racika Falah merupakan aplikasi penjualan peralatan laundry yang menawarkan harga barang kebutuhan laundry yang murah dan terjangkau. Pada aplikasi terdapat fitur pencairan, pengumuman promo, push notifikasi dan banyak fitur lainnya. 
+---
