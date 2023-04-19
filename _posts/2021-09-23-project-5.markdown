@@ -8,5 +8,5 @@ alt: image-alt
 project-date: September 2021
 client: Pribadi
 category: Android Development
-description: Apliksi Quis Lagu merupakan aplikasi media pembelajaran bagi anak-anak, aplikasi ini memiliki audio yang dapat diputar, dan soal-soal dalam lagu ini merupakan lagu daerah se-Indonesia. Sehingga harapannya bagi anak-anak yang memainkan handpone dan menggunakan aplikasi ini dapat bertambah pengetahuannya mengenai lagu daerah. Aplikasi ini dibangun sebagai syarat salah satu syarat lulus dalam proses perkuliahan. Dalam aplikasi ini sudah menggunakan database realtime milik firebase.
+description: Aplikasi Quis Lagu merupakan aplikasi media pembelajaran bagi anak-anak, aplikasi ini memiliki audio yang dapat diputar, dan soal-soal dalam lagu ini merupakan lagu daerah se-Indonesia. Sehingga harapannya bagi anak-anak yang memainkan handpone dan menggunakan aplikasi ini dapat bertambah pengetahuannya mengenai lagu daerah. Aplikasi ini dibangun sebagai syarat salah satu syarat lulus dalam proses perkuliahan. Dalam aplikasi ini sudah menggunakan database realtime milik firebase.
 ---
