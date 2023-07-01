@@ -49,7 +49,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Satriamekar, Kec. Tambun Utara,
-  - line: Kab. Bekasi - Jawa Barat.
+  - line: Kab. Bekasi - Jawa Barat
 
 # Credits content
 credits: 'Bekerja Keras, Berfikir Cerdas.'
